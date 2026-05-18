@@ -1,4 +1,4 @@
-# FLOAT project dependency set (curated from project imports + existing requirements).
+# Project dependency set (curated from project imports + existing requirements).
 # Use this as a reproducible baseline, then pin further with pip freeze in your float env.
 
 accelerate
