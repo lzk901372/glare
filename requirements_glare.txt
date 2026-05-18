@@ -1,0 +1,34 @@
+# FLOAT project dependency set (curated from project imports + existing requirements).
+# Use this as a reproducible baseline, then pin further with pip freeze in your float env.
+
+accelerate
+albucore==0.0.16
+albumentations==1.4.15
+av==12.0.0
+decord
+einops
+face-alignment==1.4.1
+flask
+flow-vis
+h5py
+insightface
+librosa
+lightgbm
+loguru
+matplotlib
+numpy>=1.19.0
+opencv-python>=4.5.0
+pandas
+Pillow
+PyYAML
+scikit-learn
+scipy
+soundfile
+timm==1.0.9
+torch>=1.7.0
+torchdiffeq==0.2.5
+torchvision
+tqdm>=4.50.0
+transformers==4.30.2
+wandb
+zarr
