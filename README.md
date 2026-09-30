@@ -2,6 +2,8 @@
 
 PyTorch implementation of **GLARE: Generating Listening Heads with Appropriate Reactions**.
 
+![](./overview.png)
+
 ---
 
 ## Repository Structure
