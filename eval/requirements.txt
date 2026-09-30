@@ -1,0 +1,7 @@
+# Python >= 3.10. Install a matching torch/torchvision pair for your CPU/CUDA.
+numpy>=1.23
+scipy>=1.9
+opencv-python>=4.5
+torch>=1.11
+torchvision>=0.12
+pytorch-fid==0.3.0
