@@ -231,10 +231,11 @@ If you find this work useful, please cite:
 
 ```bibtex
 @inproceedings{neurips2026glare,
-  title     = {GLARE: Generating Listening Heads with Appropriate Reactions},
-  author    = {Liao, Zikai and Suh, Yumin and Ouyang, Yi and Lee, Yi-Lun and Tsai, Yi-Hsuan and Yin, Zhaozheng},
-  booktitle = {Advances in Neural Information Processing Systems},
-  year      = {2026}
+  title={{GLARE}: Generating Listening Heads with Appropriate {RE}actions},
+  author={Liao, Zikai and Suh, Yumin and Ouyang, Yi and Lee, Yi-Lun and Tsai, Yi-Hsuan and Yin, Zhaozheng},
+  booktitle={The Fortieth Annual Conference on Neural Information Processing Systems},
+  year={2026},
+  url={https://openreview.net/forum?id=kJcRgMLqWX}
 }
 ```
 
