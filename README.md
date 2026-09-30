@@ -103,8 +103,6 @@ These correspond to:
 
 Some model loaders use local paths, so the checkpoints must be downloaded in advance or the corresponding command-line paths must be changed.
 
-> TODO: add official download links / checkpoint preparation script for all pretrained components used by GLARE.
-
 ---
 
 ## Data Preparation
